@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MariyaShvaya
 - 👀 I’m interested in self development, travel.
-- 🌱 I’m currently learning Full Stack Development
+- 🌱 I am Full Stack Developer and improving every day
 - 💞️ I’m looking to collaborate on Developmemnt, Design, accept new challenges.
 - 📫 How to reach me mariyashvaya89@gmail.com
 - 😄 Pronouns: I am proud to be a woman.
